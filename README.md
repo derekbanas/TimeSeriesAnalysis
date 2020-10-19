@@ -1,2 +1,2 @@
 # TimeSeriesAnalysis
-Files for part 1 of my time series analysis video
+Files for my time series analysis video
